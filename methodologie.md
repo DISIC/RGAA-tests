@@ -2427,9 +2427,7 @@ Il existe une gestion de cas particuliers dans deux types de situation :
 3. Si c'est le cas, pour chaque fonctionnalité, vérifier qu'elle ne peut pas être déclenchée ;
 4. Si c'est le cas pour chaque fonctionnalité disponible en mettant en mouvement l'appareil, le test est validé.
 
-<!-->
-Cas particuliers
+###### Cas particuliers
 Il existe une gestion de cas particulier lorsque :
     • Le mouvement est essentiel à l'accomplissement de la fonctionnalité (par exemple dans le cas d'un podomètre).
     • La détection du mouvement est utilisée pour contrôler une fonctionnalité au travers d'une interface compatible avec l'accessibilité.
--->
